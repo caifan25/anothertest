@@ -29,6 +29,6 @@ public class MainActivity extends ActionBarActivity {
 		if (id == R.id.action_setti) {
 			return true;
 		}
-		return super.onOptionsItemSelected(item);
+		return super.onOptionsItemSelected(itemanother);
 	}
 }
